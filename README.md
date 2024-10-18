@@ -1,5 +1,3 @@
-<img src="https://pypi-camo.freetls.fastly.net/42ca79ff99d75bf2cb4e6097c8006b52d36484df/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" alt="Matplotlib Logo" width="500" height="500"/>
-
 
 ![Marine Corps Personal](https://see.fontimg.com/api/rf5/ax9Mo/YmJhZjU1MDUzZmY0NDI1MGJjMDE2OGMzMTlhMWRlNmIub3Rm/UGxvdFBybzogTWFzdGVyaW5nIE1hdHBsb3RsaWIg/marine-corps-personal-used.png?r=fs&h=26&w=1250&fg=579292&bg=FFFFFF&tb=1&s=21)
 
