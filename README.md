@@ -6,6 +6,7 @@ Welcome to **PlotPro**, your ultimate guide to mastering **Matplotlib** — a de
 
 Here’s a complete syllabus for diving deep into Matplotlib, covering everything from the basics to the most advanced features. 💡
 
+
 ---
 
 ### 1. **Introduction to Matplotlib** 🖥️
