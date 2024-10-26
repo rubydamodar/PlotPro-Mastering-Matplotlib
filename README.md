@@ -1,7 +1,6 @@
 ![Marine Corps Personal](https://see.fontimg.com/api/rf5/ax9Mo/YmJhZjU1MDUzZmY0NDI1MGJjMDE2OGMzMTlhMWRlNmIub3Rm/UGxvdFBybzogTWFzdGVyaW5nIE1hdHBsb3RsaWIg/marine-corps-personal-used.png?r=fs&h=26&w=1250&fg=579292&bg=FFFFFF&tb=1&s=21)
 
 # 🎨 **PlotPro: Mastering Matplotlib** 📊
-
 Welcome to **PlotPro**, your ultimate guide to mastering **Matplotlib** — a deeply comprehensive repository for creating stunning data visualizations in Python! 🚀
 
 Here’s a complete syllabus for diving deep into Matplotlib, covering everything from the basics to the most advanced features. 💡
